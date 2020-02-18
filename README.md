@@ -1,3 +1,3 @@
 # GoProjectsforlearning
 
-``cat host.txt | hostcheck.go``
+```cat host.txt | hostcheck.go```
